@@ -1,5 +1,7 @@
 # Olá, Mundo!
- meu primeiro repositório público.
+ Meu primeiro repositório público.
 
- repositório criado durante a aula de git e github do curso em vídeo.
+ Repositório criado durante a aula de git e github do curso em vídeo.
+
+ Essa linha foi adicionada remotamente.
 
